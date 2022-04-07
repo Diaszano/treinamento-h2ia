@@ -20,5 +20,5 @@
 
 ### Semanas
 
-* [Home](../)
+* [Home](../main)
 * [Próxima semana](../Semana_1)
