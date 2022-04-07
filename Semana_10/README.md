@@ -29,3 +29,8 @@
 
 * Python 3.*
 * [Google Colab](https://colab.research.google.com/)
+
+### Semanas
+
+* [Semana passada](../Semana_9)
+* [Próxima semana](../Semana_11)

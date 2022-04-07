@@ -6,3 +6,8 @@
 
 * Python 3.*
 * [Google Colab](https://colab.research.google.com/)
+
+### Semanas
+
+* [Semana passada](../Semana_4)
+* [Próxima semana](../Semana_6)

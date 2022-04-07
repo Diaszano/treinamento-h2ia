@@ -5,7 +5,7 @@
 * [Introdução ao Github](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 * [Python com Jupyter e Colab](https://cs231n.github.io/python-numpy-tutorial/)
 * [Maths With Python](https://buildmedia.readthedocs.org/media/pdf/maths-with-python/latest/maths-with-python.pdf)
-* [Python Data Structures ](https://realpython.com/python-data-structures/)
+* [Python Data Structures](https://realpython.com/python-data-structures/)
 
 ## Tarefas
 
@@ -17,3 +17,8 @@
 
 * Python 3.*
 * [Google Colab](https://colab.research.google.com/)
+
+### Semanas
+
+* [Home](../)
+* [Próxima semana](../Semana_1)
