@@ -4,7 +4,7 @@
 
 ### Semanas
 
-- [ ] [Pré-requisitos (Pre-Week)](./Pre-Week)
+- [x] [Pré-requisitos (Pre-Week)](./Pre-Week)
 - [ ] [1ª Semana 1 - Introdução à Inteligência Artificial (IA)](./Semana_1)
 - [ ] [2ª Semana - Solucionando Problemas com IA](./Semana_2)
 - [ ] [3ª Semana - Solucionando Problemas com IA](./Semana_3)
